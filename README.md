@@ -26,3 +26,4 @@
 - https://www.oreilly.com/library/view/computer-architecture/9781098182175
 - [Computer Architecture: A Quantitative Approach](https://acs.pub.ro/~cpop/SMPA/Computer%20Architecture,%20Sixth%20Edition_%20A%20Quantitative%20Approach%20(%20PDFDrive%20).pdf) or [7th Edition](https://shop.elsevier.com/books/computer-architecture/hennessy/978-0-443-15406-5) for chip designers.
 - [Christos Kozyrakis](https://web.stanford.edu/~kozyraki/#teaching): [Computer Systems Architecture](https://web.stanford.edu/class/ee282)
+- Jim Ledin: https://subscription.packtpub.com/book/cloud-networking/9781803234519, https://github.com/PacktPublishing/Modern-Computer-Architecture-and-Organization-Second-Edition, https://static.packt-cdn.com/downloads/9781803234519_ColorImages.pdf, https://m.youtube.com/playlist?list=PLeLcvrwLe187iRRkhfS-53nQnU3jqZAIh, https://github.com/skilldrick/easy6502, https://github.com/skilldrick/6502js 
